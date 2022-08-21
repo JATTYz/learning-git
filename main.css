@@ -2,3 +2,10 @@
  position: absolute;
  text-align: center;
 }
+
+.nav-bar {
+
+position: fixed;
+float: left;
+
+}
